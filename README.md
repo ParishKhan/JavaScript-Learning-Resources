@@ -85,6 +85,7 @@ If you want to build a cool, interactive website with fancy animations, or easil
 ## Courses
 - [Code Avengers](http://www.codeavengers.com/javascript/)
 - [Learnable](https://learnable.com/topics/javascript)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Tuts+](http://code.tutsplus.com/categories/javascript/courses)
 - [Become a Web Developer from Scratch](https://www.udemy.com/how-to-become-a-web-developer-from-scratch/?dtcode=TaiDVNh1vGeV)
 - [JavaScript Framework Guide](https://www.funnyant.com/javascript-framework-guide/)
